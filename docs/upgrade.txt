@@ -1,0 +1,8 @@
+
+executer sur votre site le fichier  modules/TV/install/upgrade.php
+et n'oubliez pas d'effacer le répertoire install/ après l'installation du module :)
+
+to upgrade execute module/tv/install/upgrade.php
+and delete the install directory after upgrade.
+
+

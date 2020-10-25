@@ -1,0 +1,13 @@
+Module TV
+
+v 1.0 AddOn créé pour MPN par Codephp (http://www.codephp.net) et ckforum (http://ckforum.dyndns.org)
+
+modif pour PostNuke .64 par kyex 10/01
+v1.1 modif pour Xoops 1.0 RC1 par kyex 01/02 (http://kyexoops.multimania.com)  avec ajout clicktv de la 1.2 de ckforum
+
+V1.2 par kyex 02/02
+modif pour Xoops RC2 et ajout de Windows Media (thanks liya http://www.tw-xoops.net)
+
+v1.9 (dev version pre 2.0)
+Refonte du code, skins, gestion des players, pref utilisateur...
+
